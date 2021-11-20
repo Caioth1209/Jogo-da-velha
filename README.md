@@ -1,2 +1,2 @@
-# Tic-tac-toe
-Tic-tac-toe made in java swing
+# Jogo da velha
+Jogo da velha feito em java se
